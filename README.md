@@ -11,8 +11,12 @@
 ##### Free C Programming Books
 ##### Free C++ Programming Books
 ##### Free Hacking Books
-##### Free Web Development Programming Books
+##### Free Web Development Learning Books
 ##### Free Javascript Programming Books
-##### Free HTML Programming Books
+##### Free HTML Learning Books
+##### Free C# Programming Books
+##### Free CSS Learning Books
+##### Free Flutter Programming Books
+##### Free Android Programming Books
 
 #### Disclosure: I won't be liable for any misuse of these books (Like commercial thingies)!
