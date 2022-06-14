@@ -15,4 +15,4 @@
 ##### Free Javascript Programming Books
 ##### Free HTML Programming Books
 
-#### Disclosure: I won't be liable for any misuse of these books!
+#### Disclosure: I won't be liable for any misuse of these books (Like commercial thingies)!
