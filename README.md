@@ -4,6 +4,8 @@
 
 ### Also note that there are some books which were more than 25 megabytes. That's why I can't upload them to github but you still can find them in Google Drive. Link : https://drive.google.com/drive/folders/1hK9ETGAg0yJW_wocvzoPSGSddW5ztg0W?usp=sharing
 
+### Note : One of the Java Beginner's programmers book (Java: A beginner's guide - 7th edition by Herbert Schildt) : https://drive.google.com/file/d/1w3sKLWWFJAzr6YcbspruaokYrAuWfe5z/view?usp=sharing
+
 ## Tags
 ##### Free Java Programming Books
 ##### Free Go Programming Books
