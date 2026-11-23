@@ -1,30 +1,21 @@
-# Free-Programming-Books
+## **Website & Autofill Extension**
 
-### All of these books are collected from the internet and I am not liable for any misuse.
+[![Apply to jobs in seconds with Zapply.](apply-faster-banner.png)](https://app.zapply.jobs/onboarding/?ref=github-cta-rafiquzzaman420)
 
-##### If you have any problem with copyright, then mail me. I will take down relevant books. Thanks
+Explore Zapply's website and check out:
+- Our Chrome extension, which autofills job applications in seconds.
+- A dedicated job board featuring the latest openings across various roles.
+- User accounts with multiple profiles for different resume types and roles.
+- Job application tracking with streaks and commitment awards.
 
-### Also note that there are some books which were more than 25 megabytes. That's why I can't upload them to github but you still can find them in [Google Drive](https://drive.google.com/drive/folders/1EUYZzD00jYvfack2fuSoCAqqe0CyrmnV?usp=sharing).
+Experience an advanced career journey with us! 🚀
 
+<p align="center">
+  <a href="https://app.zapply.jobs/onboarding/?ref=github-cta-rafiquzzaman420">
+    <img src="get-started-button.png" alt="Visit Zapply" width="700">
+  </a>
+</p>
 
+<p align="right"><sub>Sponsored by Zapply</sub></p>
 
-## Tags
-##### Free Java Programming Books
-##### Free Go Programming Books
-##### Free Python Programming Books
-##### Free Ruby Programming Books
-##### Free Dart Programming Books
-##### Free C Programming Books
-##### Free C++ Programming Books
-##### Free Hacking Books
-##### Free Web Development Learning Books
-##### Free Javascript Programming Books
-##### Free HTML Learning Books
-##### Free C# Programming Books
-##### Free CSS Learning Books
-##### Free Flutter Programming Books
-##### Free Android Programming Books
-##### Free Scala Programming Books
-##### Free Ruby Programming Books
-
-#### Disclosure: I won't be liable for any misuse of these books (Like commercial thingies)!
+---
